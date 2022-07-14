@@ -4,7 +4,8 @@
   "description": "Sample problems and solutions for problem solving with stacks and queues",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
